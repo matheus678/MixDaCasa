@@ -1,0 +1,3 @@
+C:\Users\mathe\documents\MixDaCasa\MixDaCasa\obj\Debug\netcoreapp3.1\MixDaCasa.csprojAssemblyReference.cache
+C:\Users\mathe\documents\MixDaCasa\MixDaCasa\obj\Debug\netcoreapp3.1\MixDaCasa.AssemblyInfoInputs.cache
+C:\Users\mathe\documents\MixDaCasa\MixDaCasa\obj\Debug\netcoreapp3.1\MixDaCasa.AssemblyInfo.cs
